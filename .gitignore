@@ -1,0 +1,10 @@
+/py_cache
+/__pycache__
+/build
+/dist
+/test_videos
+/us_env
+
+_spinner_helper.py
+realtime-translation.py
+main.spec
